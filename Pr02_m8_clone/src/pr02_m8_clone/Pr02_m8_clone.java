@@ -17,7 +17,7 @@ public class Pr02_m8_clone {
     public static void main(String[] args) {
         // TODO code application logic here
         // TODO code application logic here
-        System.out.println("Hola SOY RUBEN ");
+        System.out.println("Hola SOY RUBEN SALAZAR ");
         
         System.out.println("versió 0.2 del projecte prjava00");
         
